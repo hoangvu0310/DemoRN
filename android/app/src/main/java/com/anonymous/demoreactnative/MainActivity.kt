@@ -1,4 +1,4 @@
-package com.demorn
+package com.anonymous.demoreactnative
 
 import android.os.Build
 import android.os.Bundle

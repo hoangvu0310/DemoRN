@@ -1,4 +1,4 @@
-package com.demorn
+package com.anonymous.demoreactnative
 
 import android.app.Application
 import android.content.res.Configuration
