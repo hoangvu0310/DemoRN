@@ -4,6 +4,7 @@ export default {
 	white: '#ffffff',
 	primary: '#8687E7',
 	secondary: '#8875FF',
+	error: '#F44336',
 
 	grey1: '#AFAFAF',
 	grey2: '#979797',

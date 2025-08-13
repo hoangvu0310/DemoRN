@@ -5,6 +5,7 @@ type FillButtonProps = {
 	backgroundColor: string
 	borderRadius?: number
 	onPress: () => void
+	disabled?: boolean
 	buttonStyle?: StyleProp<ViewStyle>
 }
 
@@ -13,12 +14,14 @@ export default function FillButton({
 	backgroundColor,
 	borderRadius = 4,
 	onPress,
+	disabled = false,
 	buttonStyle,
 }: FillButtonProps) {
 	return (
 		<TouchableOpacity
 			activeOpacity={0.9}
-			className={'flex justify-center items-center px-[24px] py-[12px]'}
+			disabled={disabled}
+			className={'opa flex items-center justify-center px-[24px] py-[12px]'}
 			style={[{ backgroundColor: backgroundColor, borderRadius: borderRadius }, buttonStyle]}
 			onPress={onPress}
 		>

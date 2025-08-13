@@ -30,6 +30,9 @@
     "registerGoogle": "Đăng kí với Google",
     "registerApple": "Đăng kí với Apple",
     "dontHaveAnAccount": "Chưa có tài khoản?",
-    "alreadyHaveAnAccount": "Đã có tài khoản?"
+    "alreadyHaveAnAccount": "Đã có tài khoản?",
+    "requireUsername": "Vui lòng nhập tài khoản",
+    "requirePassword": "Vui lòng nhập mật khẩu",
+    "requireConfirmPassword": "Vui lòng xác nhận mật khẩu"
   }
 }

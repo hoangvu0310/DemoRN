@@ -30,6 +30,9 @@
     "registerGoogle": "Register with Google",
     "registerApple": "Register with Apple",
     "dontHaveAnAccount": "Don't have an account?",
-    "alreadyHaveAnAccount": "Already have an account?"
+    "alreadyHaveAnAccount": "Already have an account?",
+    "requireUsername": "Username is required",
+    "requirePassword": "Password is required",
+    "requireConfirmPassword": "Please confirm your password"
   }
 }
