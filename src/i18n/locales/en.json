@@ -1,0 +1,35 @@
+{
+  "onboarding": {
+    "skip": "SKIP",
+    "title1": "Manage your tasks",
+    "description1": "You can easily manage your daily\n tasks in DoMe for free",
+    "title2": "Create daily routine",
+    "description2": "In Uptodo you can create your\n personalized routine to stay productive",
+    "title3": "Organize your tasks",
+    "description3": "You can organize your daily tasks by\n adding your tasks into separate categories",
+    "back": "BACK",
+    "next": "NEXT",
+    "getStarted": "GET STARTED",
+    "welcomeTitle": "Welcome to UpTodo",
+    "welcomeDescription": "Please login to your account or create\n new account to continue",
+    "login": "LOGIN",
+    "createAccount": "CREATE ACCOUNT"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "username": "Username",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "usernamePlaceholder": "Enter your username",
+    "passwordPlaceholder": "Enter your password",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "or": "or",
+    "loginGoogle": "Login with Google",
+    "loginApple": "Login with Apple",
+    "registerGoogle": "Register with Google",
+    "registerApple": "Register with Apple",
+    "dontHaveAnAccount": "Don't have an account?",
+    "alreadyHaveAnAccount": "Already have an account?"
+  }
+}

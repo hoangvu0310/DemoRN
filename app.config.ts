@@ -28,7 +28,7 @@ export default ({ config }: ConfigContext): ExpoConfig => {
 		android: {
 			adaptiveIcon: {
 				foregroundImage: './assets/adaptive-icon.png',
-				backgroundColor: '#000000',
+				backgroundColor: '#ffffff',
 			},
 			package: 'com.anonymous.demoreactnative',
 			edgeToEdgeEnabled: true,
@@ -40,7 +40,18 @@ export default ({ config }: ConfigContext): ExpoConfig => {
 			favicon: './assets/favicon.png',
 		},
 
-		plugins: ['expo-router', 'expo-font'],
+		plugins: [
+			'expo-router',
+			'expo-font',
+			[
+				'expo-splash-screen',
+				{
+					backgroundColor: '#000000',
+					image: './assets/splash-icon.png',
+					imageWidth: 200,
+				},
+			],
+		],
 
 		experiments: {
 			typedRoutes: true,

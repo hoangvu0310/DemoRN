@@ -1,0 +1,35 @@
+{
+  "onboarding": {
+    "skip": "BỎ QUA",
+    "title1": "Manage your tasks",
+    "description1": "You can easily manage your daily\n tasks in DoMe for free",
+    "title2": "Create daily routine",
+    "description2": "In Uptodo you can create your\n personalized routine to stay productive",
+    "title3": "Organize your tasks",
+    "description3": "You can organize your daily tasks by\n adding your tasks into separate categories",
+    "back": "QUAY LẠI",
+    "next": "TIẾP TỤC",
+    "getStarted": "BẮT ĐÂU",
+    "welcomeTitle": "Welcome to UpTodo",
+    "welcomeDescription": "Please login to your account or create\n new account to continue",
+    "login": "ĐĂNG NHẬP",
+    "createAccount": "TẠO TÀI KHOẢN"
+  },
+  "auth": {
+    "login": "Đăng nhập",
+    "register": "Đăng kí",
+    "username": "Tài khoản",
+    "password": "Mật khẩu",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "usernamePlaceholder": "Nhập tài khoản của bạn",
+    "passwordPlaceholder": "Nhập mật khẩu của bạn",
+    "confirmPasswordPlaceholder": "Xác nhận mật khẩu của bạn",
+    "or": "hoặc",
+    "loginGoogle": "Đăng nhập với Google",
+    "loginApple": "Đăng nhập với Apple",
+    "registerGoogle": "Đăng kí với Google",
+    "registerApple": "Đăng kí với Apple",
+    "dontHaveAnAccount": "Chưa có tài khoản?",
+    "alreadyHaveAnAccount": "Đã có tài khoản?"
+  }
+}
